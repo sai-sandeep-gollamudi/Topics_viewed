@@ -1,3 +1,4 @@
 03/07/24 - Concurrency control in data bases.
 03/08/24 - Database replication
 03/09/24 - Database design
+03/10/24 - Data Quality
