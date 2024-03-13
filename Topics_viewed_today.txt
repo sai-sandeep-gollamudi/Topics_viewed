@@ -3,3 +3,4 @@
 03/09/24 - Database design
 03/10/24 - Data Quality
 03/11/24 - 
+03/12/24 - 
