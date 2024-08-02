@@ -2,6 +2,8 @@
 03/08/24 - Database replication
 03/09/24 - Database design
 03/10/24 - Data Quality
-03/11/24 - 
-03/12/24 - 
-03/13/24 - 
+
+
+
+
+08/01/24 - AWS RDS
