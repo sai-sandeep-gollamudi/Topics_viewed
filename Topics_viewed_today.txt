@@ -7,3 +7,4 @@
 
 
 08/01/24 - AWS RDS
+08/02/24 - DynamoDB
